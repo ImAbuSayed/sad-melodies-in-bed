@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sad-melodies-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sad Melodies In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-melodies-in-bed/) |
+| **Get License** | [Official Music Licensing for Sad Melodies In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-melodies-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `429303f71b0b997f23b329aa7b7dbc7b211cd229deb1c007967b549baa96cda6` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
