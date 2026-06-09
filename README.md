@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sad-melodies-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sad Melodies In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-melodies-in-bed/) |
+| **Get License** | [Commercial Licensing for Sad Melodies In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-melodies-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling on the bedroom floor
+> I’ve never wanted you like this before
+> Tangled up inside this cotton sheet
+> Where the quiet night and our heartbeats meet
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
